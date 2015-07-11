@@ -1,6 +1,3 @@
-Insight Data Engineering - Coding Challenge
-===========================================================
-
 ## Summary
 
 The goal of this challenge is to implement two features:
