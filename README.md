@@ -16,7 +16,7 @@ This solution requires the intallation of 'numpy' library.
 
 ## Misc
 
-Additional text files have been generated via Ruby for testing purposes. [2](http://www.skorks.com/2010/03/how-to-quickly-generate-a-large-file-on-the-command-line-with-linux/)
+Additional text files have been generated via Ruby for testing purposes. Only 'second.txt' was included due to the size of the other files. 'second.txt' contains 6000 lines of randomly chosen words from the dictionary, with each line of varying length in words. [2](http://www.skorks.com/2010/03/how-to-quickly-generate-a-large-file-on-the-command-line-with-linux/)
 
 	├── README.md  
 	├── run.sh  
@@ -26,13 +26,11 @@ Additional text files have been generated via Ruby for testing purposes. [2](htt
 	├── tweet_input  
 	│   ├── tweets.txt
 	│   ├── second.txt  
-	│   └── hour.txt  
 	└── tweet_output  
 	    ├── ft1.txt  
 	    └── ft2.txt  
 
-'second.txt' 	contains 6000 lines of randomly chosen words from the dictionary, with each line of varying length in words
-'hour.txt'		contains '21,000,000' lines of randomly chosen words from the dictionary, with each line of varying length in words
+
 
 
 
